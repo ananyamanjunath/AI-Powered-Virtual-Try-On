@@ -1,6 +1,6 @@
 
 # AI Try-On Feature Project
-##[Click here to View the Figma](https://www.figma.com/file/0IS6vJCndhzKU6M1Eqx3JM/AI-Try-On-Website?type=design&node-id=0-1&mode=design)
+## [Click here to View the Figma](https://www.figma.com/file/0IS6vJCndhzKU6M1Eqx3JM/AI-Try-On-Website?type=design&node-id=0-1&mode=design)
 
 ## Introduction
 This project aims to enhance the online shopping experience through an innovative AI Try-On feature, enabling users to visualize products using Augmented Reality (AR) before making a purchase. This feature aims to bridge the gap between digital and physical shopping experiences, providing users with a more interactive and engaging way to shop online.
