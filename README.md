@@ -2,11 +2,12 @@
 # AI Try-On Feature Project
 
 ## Introduction
-This project aims to enhance online shopping experience through an innovative AI Try-On feature, enabling users to visualize products using Augmented Reality (AR) before making a purchase. This feature aims to bridge the gap between digital and physical shopping experiences, providing users with a more interactive and engaging way to shop online.
+This project aims to enhance the online shopping experience through an innovative AI Try-On feature, enabling users to visualize products using Augmented Reality (AR) before making a purchase. This feature aims to bridge the gap between digital and physical shopping experiences, providing users with a more interactive and engaging way to shop online.
 
 ## Wireframes
 The wireframes outline the user journey across four main web pages:
-1. **Homepage** - Features a header, banner, AI Try-On link, and footer.<img width="998" alt="Screenshot 2024-02-24 at 3 14 05 AM" src="https://github.com/ananyamanjunath/AI-Powered-Virtual-Try-On/assets/109954683/718912de-f26e-4069-b945-57043e259e72">
+1. **Homepage** - Features a header, banner, AI Try-On link, and footer.<img width="994" alt="Screenshot 2024-02-24 at 3 14 05 AM" src="https://github.com/ananyamanjunath/AI-Powered-Virtual-Try-On/assets/109954683/565ee34d-77bb-431b-8658-4315ba99e8b0">
+
 
 2. **AI Try-On Details Page** - Details about the AI Try-On feature with a 'Start Trial' button.<img width="998" alt="Screenshot 2024-02-24 at 3 14 12 AM" src="https://github.com/ananyamanjunath/AI-Powered-Virtual-Try-On/assets/109954683/7154c047-6c08-491f-bb9b-d62a43237eee">
 
